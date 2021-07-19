@@ -6,4 +6,6 @@ def Sub(a,b):
 
 def Mal(a,b):
     return a*b
-    
+
+def Min(a,b):
+    return (a+b)/2
