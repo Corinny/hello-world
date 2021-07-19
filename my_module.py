@@ -10,5 +10,5 @@ def Mal(a,b):
 def Min(a,b):
     return (a+b)/2
 
-def Max(a,b) :
-    return a/b
+def div(a,b):
+    return a//b
